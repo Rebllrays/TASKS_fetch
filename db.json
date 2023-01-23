@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "title": "Skincare Cream",
+      "price": "345",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/9661/8038/products/VITAL-C-hydrating-facial-cleanser-02_d3f9625e-53c9-49db-ac3d-caf77c32fbda_600x.jpg?v=1620318346",
+      "author": "Gera",
+      "id": 1
+    },
+    {
+      "title": "SPF",
+      "price": "567",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/9661/8038/products/PREVENTION_-MATTE-PDP-R012_600x.jpg?v=1638457680",
+      "author": "Mark",
+      "id": 2
+    },
+    {
+      "title": "Beauty",
+      "price": "3887",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0250/9661/8038/articles/NovBlog_3_7c930685-e2bc-48cc-a09a-51915b44fc66_600x.jpg?v=1673977925",
+      "author": "Ten",
+      "id": 3
+    },
+    {
+      "title": "apple",
+      "price": "123",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+      "author": "Mark",
+      "id": 4
+    }
+  ]
+}
